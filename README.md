@@ -54,17 +54,7 @@ composer require mobiledetect/mobiledetectlib
 ```
 
 ##### Help
-
-|Pledgie|Paypal|
-|-------|------|
-|[Donate :+1:](https://pledgie.com/campaigns/21856)|[Donate :beer:](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mobiledetectlib%40gmail%2ecom&lc=US&item_name=Mobile%20Detect&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)|
-
-
-I'm currently paying for hosting and spend a lot of my family time to maintain the project and planning the future releases.
-I would highly appreciate any money donations that will keep the research going.
-
-Special thanks to the community :+1: for donations, [BrowserStack](https://www.browserstack.com/) - for providing access to their great platform, [Zend](http://www.zend.com/) - for donating licenses, [Dragos Gavrila](https://twitter.com/grafician) who contributed with the logo.
-
+            Removed
 ##### 3rd party modules / [Submit new](../../issues/new?title=New%203rd%20party%20module&body=Name, Link and Description of the module.)
 
 :point_right: Keep `Mobile_Detect.php` class in a separate `module` and do NOT include it in your script core because of the high frequency of updates.
